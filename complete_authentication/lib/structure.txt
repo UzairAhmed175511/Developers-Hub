@@ -1,0 +1,30 @@
+lib/
+│
+├── main.dart
+│
+├── models/
+│   └── user_model.dart
+│
+├── services/
+│   ├── firebase_auth_service.dart       
+│   └── firebase_user_service.dart        
+│
+├── viewmodels/
+│   └── auth_view_model.dart              
+│
+├── views/
+│   ├── auth/
+│   │   ├── login_screen.dart
+│   │   ├── signup_screen.dart
+│   │   ├── forgot_password_screen.dart
+│   │  
+│   └── home/
+│       └── home_screen.dart
+│
+├── utils/
+│   ├── validators.dart
+│   ├── app_routes.dart
+│   └── app_constants.dart
+│
+└── widgets/
+    └── custom_button.dart
