@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "164306165639",
-    "project_id": "fluttermvvmauth",
-    "storage_bucket": "fluttermvvmauth.firebasestorage.app"
+    "project_number": "Private",
+    "project_id": "Private",
+    "storage_bucket": "Private"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:164306165639:android:3b227a85564d9132cebd22",
+        "mobilesdk_app_id": "Private",
         "android_client_info": {
-          "package_name": "com.example.complete_authentication"
+          "package_name": "Private"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD7iE3hspyBm8r4pRSJiKAteejkMIhrFaI"
+          "current_key": "Private"
         }
       ],
       "services": {
