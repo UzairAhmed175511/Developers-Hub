@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1000582089434",
+    "project_id": "saylaniflutter",
+    "storage_bucket": "saylaniflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000582089434:android:0ef9326393a4f4493db3e3",
+        "android_client_info": {
+          "package_name": "com.example.api_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGe7C4AspCPsD8or2i1G63x3Mdo2kbEqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000582089434:android:a9a5b3cea11af1743db3e3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_and_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGe7C4AspCPsD8or2i1G63x3Mdo2kbEqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
