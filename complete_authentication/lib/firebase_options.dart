@@ -4,13 +4,13 @@ import 'package:flutter/foundation.dart';
 class DefaultFirebaseOptions {
   // Web configuration
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: "AIzaSyCAi90joDJB0KpJF1tNXdcRZDp2Mw22_Mc",
-    authDomain: "fluttermvvmauth.firebaseapp.com",
-    projectId: "fluttermvvmauth",
-    storageBucket: "fluttermvvmauth.firebasestorage.app",
-    messagingSenderId: "164306165639",
-    appId: "1:164306165639:web:cdf08eabbc6c5414cebd22",
-    measurementId: "G-DYKE4TPN4E",
+    apiKey: "Private",
+    authDomain: "Private",
+    projectId: "Private",
+    storageBucket: "Private",
+    messagingSenderId: "Private",
+    appId: "Private",
+    measurementId: "Private",
   );
 
   // Android configuration
